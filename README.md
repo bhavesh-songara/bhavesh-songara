@@ -14,9 +14,6 @@ Hi there! 👋<br>I'm a self-taught software developer with a passion for coding
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bhavesh-songara&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=bhavesh-songara&icon=0&color=12)](https://visitcount.itsvg.in)
 
