@@ -11,9 +11,6 @@ Hi there! 👋<br>I'm a self-taught software developer with a passion for coding
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bhavesh-songara&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh-songara&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bhavesh-songara&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=bhavesh-songara&icon=0&color=12)](https://visitcount.itsvg.in)
 
