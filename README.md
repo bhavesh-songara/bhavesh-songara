@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br>I'm a self-taught software developer with a passion for coding and a desire to make a meaningful impact in the tech industry. At just 18 years old, I secured a full-time job as a full-stack developer without a college degree, and I haven't looked back since.<br><br>I'm currently working at Newtral.io, a startup focused on helping organizations become carbon neutral. As a software developer, I'm responsible for providing end-to-end technology solutions for carbon accounting and sustainability reporting needs.<br><br>In my free time, I enjoy experimenting with new coding projects, collaborating with other developers, and continuously learning and improving my skills. I'm particularly passionate about climate tech and building sustainable solutions, as evidenced by my work on Newtral.io.<br><br>Thanks for checking out my profile! Feel free to reach out if you have any questions or if you'd like to collaborate on a project.<br><br><br><br>
+Hi there! 👋<br>I'm a self-taught software developer with a passion for coding and a desire to make a meaningful impact in the tech industry.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavesh-songara-75a3681b3) 
